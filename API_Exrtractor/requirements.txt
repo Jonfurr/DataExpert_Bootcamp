@@ -1,0 +1,6 @@
+requests
+pandas
+openai
+dotenv
+time
+csv

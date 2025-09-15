@@ -1,4 +1,9 @@
-env_vars.py
+API_Extractor/.env
 __pycache__/
 *.pyc
 .DS_Store
+API_Extractor/venv/
+API_Extractor/requirements.txt
+API_Extractor/.env
+API_Extractor/.gitignore
+API_Exrtractor/*.csv
